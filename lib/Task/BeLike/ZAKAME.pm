@@ -7,22 +7,20 @@ our $VERSION = "0.01";
 
 
 
-1;
+'Derp.';
 __END__
 
 =encoding utf-8
 
 =head1 NAME
 
-Task::BeLike::ZAKAME - It's new $module
-
-=head1 SYNOPSIS
-
-    use Task::BeLike::ZAKAME;
+Task::BeLike::ZAKAME - Be like ZAKAME
 
 =head1 DESCRIPTION
 
-Task::BeLike::ZAKAME is ...
+This L<Task> module lets you install all the modules I currently use.
+
+See the C<cpanfile> for the list.
 
 =head1 LICENSE
 
@@ -33,7 +31,7 @@ it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-Zak B. Elep E<lt>zakame@zakame.netE<gt>
+Zak B. Elep E<lt>zakame@cpan.orgE<gt>
 
 =cut
 
