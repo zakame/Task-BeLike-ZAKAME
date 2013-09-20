@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Be like ZAKAME",
    "author" : [
-      "Zak B. Elep <zakame@zakame.net>"
+      "Zak B. Elep <zakame@cpan.org>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v0.6.7, CPAN::Meta::Converter version 2.132140",
@@ -42,6 +42,17 @@
       },
       "runtime" : {
          "requires" : {
+            "App::Ack" : "0",
+            "App::cpanoutdated" : "0",
+            "App::ph" : "0",
+            "CPAN::Mini" : "0",
+            "CPAN::Uploader" : "0",
+            "Minilla" : "0",
+            "Moo" : "0",
+            "Perl::Critic" : "0",
+            "Perl::Tidy" : "0",
+            "Reply" : "0",
+            "Version::Next" : "0",
             "perl" : "5.008005"
          }
       },
@@ -52,5 +63,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/zakame/Task-BeLike-ZAKAME/issues"
+      },
+      "homepage" : "https://github.com/zakame/Task-BeLike-ZAKAME",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/zakame/Task-BeLike-ZAKAME.git",
+         "web" : "https://github.com/zakame/Task-BeLike-ZAKAME"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Zak B. Elep <zakame@zakame.net>"
+   ]
 }

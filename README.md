@@ -1,14 +1,12 @@
 # NAME
 
-Task::BeLike::ZAKAME - It's new $module
-
-# SYNOPSIS
-
-    use Task::BeLike::ZAKAME;
+Task::BeLike::ZAKAME - Be like ZAKAME
 
 # DESCRIPTION
 
-Task::BeLike::ZAKAME is ...
+This [Task](http://search.cpan.org/perldoc?Task) module lets you install all the modules I currently use.
+
+See the `cpanfile` for the list.
 
 # LICENSE
 
@@ -19,4 +17,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-Zak B. Elep <zakame@zakame.net>
+Zak B. Elep <zakame@cpan.org>
