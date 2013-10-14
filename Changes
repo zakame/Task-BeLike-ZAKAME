@@ -2,6 +2,10 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.02 2013-10-14T03:54:54Z
+
+    - Add rainbarf for my tmux setup
+
 0.01 2013-09-20T03:09:08Z
 
     - original version
