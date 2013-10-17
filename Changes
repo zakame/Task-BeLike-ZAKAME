@@ -2,6 +2,10 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.03 2013-10-17T10:31:51Z
+
+    - Add App::Nopaste for my pastebin needs
+
 0.02 2013-10-14T03:54:54Z
 
     - Add rainbarf for my tmux setup
