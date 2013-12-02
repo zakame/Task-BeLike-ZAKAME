@@ -4,7 +4,6 @@ requires 'App::Ack';
 requires 'App::cpanoutdated';
 requires 'App::Nopaste';
 requires 'App::ph';
-requires 'App::rainbarf';
 requires 'CPAN::Mini';
 requires 'CPAN::Uploader';
 requires 'Minilla';
@@ -13,6 +12,8 @@ requires 'Perl::Critic';
 requires 'Perl::Tidy';
 requires 'Reply';
 requires 'Version::Next';
+
+recommends 'App::rainbarf';
 
 on 'test' => sub {
     requires 'Test::More', '0.98';
