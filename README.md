@@ -4,7 +4,7 @@ Task::BeLike::ZAKAME - Be like ZAKAME
 
 # DESCRIPTION
 
-This [Task](http://search.cpan.org/perldoc?Task) module lets you install all the modules I currently use.
+This [Task](https://metacpan.org/pod/Task) module lets you install all the modules I currently use.
 
 See the `cpanfile` for the list.
 
