@@ -11,6 +11,7 @@ requires 'Moo';
 requires 'Perl::Critic';
 requires 'Perl::Tidy';
 requires 'Reply';
+requires 'Text::Markdown';
 requires 'Version::Next';
 
 recommends 'App::rainbarf';
