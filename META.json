@@ -4,7 +4,7 @@
       "Zak B. Elep <zakame@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.11.0, CPAN::Meta::Converter version 2.132830",
+   "generated_by" : "Minilla/v0.11.1, CPAN::Meta::Converter version 2.140640",
    "license" : [
       "perl_5"
    ],
@@ -49,6 +49,7 @@
             "App::Ack" : "0",
             "App::Nopaste" : "0",
             "App::cpanoutdated" : "0",
+            "App::metacpansearch" : "0",
             "App::ph" : "0",
             "CPAN::Mini" : "0",
             "CPAN::Uploader" : "0",
@@ -56,6 +57,7 @@
             "Moo" : "0",
             "Perl::Critic" : "0",
             "Perl::Tidy" : "0",
+            "Pod::Cpandoc" : "0",
             "Reply" : "0",
             "Text::Markdown" : "0",
             "Version::Next" : "0",
@@ -80,7 +82,7 @@
          "web" : "https://github.com/zakame/Task-BeLike-ZAKAME"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "Zak B. Elep <zakame@zakame.net>",
       "Zak B. Elep <zak.elep@yoyo.ph>"

@@ -2,6 +2,10 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.05 2014-03-07T02:37:43Z
+
+    - Add App::metacpansearch and Pod::Cpandoc
+
 0.04 2013-12-02T07:49:53Z
 
     - Downgrade App::rainbarf to install via cpanm --with-recommends
