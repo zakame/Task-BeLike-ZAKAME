@@ -2,6 +2,7 @@ requires 'perl', '5.008001';
 
 requires 'App::Ack';
 requires 'App::cpanoutdated';
+requires 'App::metacpansearch';
 requires 'App::Nopaste';
 requires 'App::ph';
 requires 'CPAN::Mini';
@@ -10,6 +11,7 @@ requires 'Minilla';
 requires 'Moo';
 requires 'Perl::Critic';
 requires 'Perl::Tidy';
+requires 'Pod::Cpandoc';
 requires 'Reply';
 requires 'Text::Markdown';
 requires 'Version::Next';
