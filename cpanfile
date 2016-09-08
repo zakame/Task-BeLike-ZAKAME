@@ -4,7 +4,6 @@ requires 'App::Ack';
 requires 'App::cpanoutdated';
 requires 'App::metacpansearch';
 requires 'App::Nopaste';
-requires 'App::ph';
 requires 'CPAN::Mini';
 requires 'CPAN::Uploader';
 requires 'Minilla';
