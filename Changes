@@ -2,6 +2,11 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.08 2016-09-13T07:46:04Z
+
+    - Add more modules needed by my Reply setup
+    - Add App::HTTPThis, Mojo, Paws, Plack
+
 0.07 2016-09-08T10:57:46Z
 
     - Remove App::ph, add some others I now use

@@ -4,7 +4,7 @@
       "Zak B. Elep <zakame@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.0.4, CPAN::Meta::Converter version 2.150005",
+   "generated_by" : "Minilla/v3.0.4, CPAN::Meta::Converter version 2.150010",
    "license" : [
       "perl_5"
    ],
@@ -49,19 +49,26 @@
          "requires" : {
             "AnyEvent" : "0",
             "App::Ack" : "0",
+            "App::HTTPThis" : "0",
             "App::Nopaste" : "0",
             "App::cpanoutdated" : "0",
             "App::metacpansearch" : "0",
             "CPAN::Mini" : "0",
             "CPAN::Uploader" : "0",
             "Carton" : "0",
+            "Class::Refresh" : "0",
             "Data::Printer" : "0",
             "Minilla" : "0",
+            "Mojolicious" : "0",
             "Moo" : "0",
+            "Paws" : "0",
             "Perl::Tidy" : "0",
+            "Plack" : "0",
             "Pod::Cpandoc" : "0",
+            "Proc::InvokeEditor" : "0",
             "Reply" : "0",
             "Text::Markdown" : "0",
+            "Type::Tiny" : "0",
             "Version::Next" : "0",
             "Web::Query" : "0",
             "perl" : "5.008005"
@@ -85,10 +92,10 @@
          "web" : "https://github.com/zakame/Task-BeLike-ZAKAME"
       }
    },
-   "version" : "0.07",
+   "version" : "0.08",
    "x_contributors" : [
       "Zak B. Elep <zak.elep@yoyo.ph>",
       "Zak B. Elep <zakame@zakame.net>"
    ],
-   "x_serialization_backend" : "JSON::PP version 2.27300"
+   "x_serialization_backend" : "JSON::PP version 2.27400"
 }
