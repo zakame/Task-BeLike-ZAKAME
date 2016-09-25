@@ -58,6 +58,7 @@
             "Carton" : "0",
             "Class::Refresh" : "0",
             "Data::Printer" : "0",
+            "Devel::Confess" : "0",
             "Minilla" : "0",
             "Mojolicious" : "0",
             "Moo" : "0",
@@ -66,6 +67,7 @@
             "Plack" : "0",
             "Pod::Cpandoc" : "0",
             "Proc::InvokeEditor" : "0",
+            "Pry" : "0",
             "Reply" : "0",
             "Text::Markdown" : "0",
             "Type::Tiny" : "0",
@@ -92,7 +94,7 @@
          "web" : "https://github.com/zakame/Task-BeLike-ZAKAME"
       }
    },
-   "version" : "0.08",
+   "version" : "0.09",
    "x_contributors" : [
       "Zak B. Elep <zak.elep@yoyo.ph>",
       "Zak B. Elep <zakame@zakame.net>"

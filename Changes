@@ -2,6 +2,10 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.09 2016-09-25T09:47:38Z
+
+    - Add Devel::Confess and Pry
+
 0.08 2016-09-13T07:46:04Z
 
     - Add more modules needed by my Reply setup
