@@ -2,6 +2,12 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.10 2017-06-22T07:54:24Z
+
+    - Add App::cpm, Import::Base, Git::Deploy, LWP::Protocol::rsync
+    - Move Paws to recommends
+    - Remove App::metacpansearch
+
 0.09 2016-09-25T09:47:38Z
 
     - Add Devel::Confess and Pry
