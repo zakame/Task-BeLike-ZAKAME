@@ -10,7 +10,7 @@
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
-      "version" : 2
+      "version" : "2"
    },
    "name" : "Task-BeLike-ZAKAME",
    "no_index" : {
@@ -44,7 +44,7 @@
          "recommends" : {
             "App::rainbarf" : "0",
             "App::scan_prereqs_cpanfile" : "0",
-            "Git::Deploy" : "0",
+            "Devel::Cover" : "0",
             "LWP::Protocol::rsync" : "0",
             "Paws" : "0",
             "Perl::Critic" : "0"
@@ -97,10 +97,10 @@
          "web" : "https://github.com/zakame/Task-BeLike-ZAKAME"
       }
    },
-   "version" : "0.10",
+   "version" : "0.11",
    "x_contributors" : [
       "Zak B. Elep <zak.elep@yoyo.ph>",
       "Zak B. Elep <zakame@zakame.net>"
    ],
-   "x_serialization_backend" : "JSON::PP version 2.94"
+   "x_serialization_backend" : "JSON::PP version 2.27400_02"
 }
