@@ -29,6 +29,9 @@ requires 'Web::Query';
 
 recommends 'App::rainbarf';
 recommends 'App::scan_prereqs_cpanfile';
+recommends 'CPAN::Mini::Webserver';
+recommends 'DB::Pluggable';
+recommends 'DB::Skip';
 recommends 'Devel::Cover';
 recommends 'LWP::Protocol::rsync';
 recommends 'Paws';
