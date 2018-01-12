@@ -26,6 +26,8 @@ requires 'Text::Markdown';
 requires 'Type::Tiny';
 requires 'Version::Next';
 requires 'Web::Query';
+requires 'Future';
+requires 'IO::Async';
 
 recommends 'App::rainbarf';
 recommends 'App::scan_prereqs_cpanfile';
