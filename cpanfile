@@ -38,6 +38,7 @@ recommends 'Devel::Cover';
 recommends 'LWP::Protocol::rsync';
 recommends 'Paws';
 recommends 'Perl::Critic';
+recommends 'Web::Query';
 
 on 'test' => sub {
     requires 'Test::More', '0.98';
