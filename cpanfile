@@ -25,9 +25,7 @@ requires 'Reply';
 requires 'Text::Markdown';
 requires 'Type::Tiny';
 requires 'Version::Next';
-requires 'Web::Query';
-requires 'Future';
-requires 'IO::Async';
+requires 'Net::Async::HTTP';
 
 recommends 'App::rainbarf';
 recommends 'App::scan_prereqs_cpanfile';
