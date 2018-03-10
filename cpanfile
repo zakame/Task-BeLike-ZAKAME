@@ -9,6 +9,7 @@ requires 'Carton';
 requires 'Class::Refresh';
 requires 'CPAN::Mini';
 requires 'CPAN::Uploader';
+requires 'curry';
 requires 'Data::Printer';
 requires 'Devel::Confess';
 requires 'Import::Base';
