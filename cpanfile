@@ -16,6 +16,7 @@ requires 'Log::Any';
 requires 'Minilla';
 requires 'Mojolicious';
 requires 'Moo';
+requires 'Net::Async::HTTP';
 requires 'Perl::Tidy';
 requires 'Plack';
 requires 'Pod::Cpandoc';
@@ -25,7 +26,6 @@ requires 'Reply';
 requires 'Text::Markdown';
 requires 'Type::Tiny';
 requires 'Version::Next';
-requires 'Net::Async::HTTP';
 
 recommends 'indirect';
 recommends 'perlsecret';
