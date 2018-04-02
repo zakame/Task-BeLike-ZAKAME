@@ -2,6 +2,10 @@ Revision history for Perl extension Task-BeLike-ZAKAME
 
 {{$NEXT}}
 
+0.17 2018-04-02T17:03:38Z
+
+    - Add curry
+
 0.16 2018-03-28T12:02:22Z
 
     - Add Log::Any to requires
