@@ -4,13 +4,13 @@
       "Zak B. Elep <zakame@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.0.16, CPAN::Meta::Converter version 2.150010",
+   "generated_by" : "Minilla/v3.0.17, CPAN::Meta::Converter version 2.150010",
    "license" : [
       "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
-      "version" : "2"
+      "version" : 2
    },
    "name" : "Task-BeLike-ZAKAME",
    "no_index" : {
@@ -45,18 +45,19 @@
             "App::Nopaste" : "0",
             "App::rainbarf" : "0",
             "App::scan_prereqs_cpanfile" : "0",
+            "Benchmark::Forking" : "0",
             "CPAN::Mini::Webserver" : "0",
             "DB::Pluggable" : "0",
             "DB::Skip" : "0",
             "Devel::Cover" : "0",
             "Devel::Trace" : "0",
             "LWP::Protocol::rsync" : "0",
+            "Math::BigInt::Lite" : "0",
             "Paws" : "0",
             "Perl::Critic" : "0",
             "Perl::Critic::Freenode" : "0",
             "Term::ReadLine::Gnu" : "0",
             "Web::Query" : "0",
-            "indirect" : "0",
             "perlsecret" : "0"
          },
          "requires" : {
@@ -87,6 +88,7 @@
             "Type::Tiny" : "0",
             "Version::Next" : "0",
             "curry" : "0",
+            "indirect" : "0",
             "perl" : "5.014002"
          }
       },
@@ -113,5 +115,5 @@
       "Zak B. Elep <zak.elep@yoyo.ph>",
       "Zak B. Elep <zakame@zakame.net>"
    ],
-   "x_serialization_backend" : "JSON::PP version 2.27400_02"
+   "x_serialization_backend" : "JSON::PP version 2.97001"
 }
