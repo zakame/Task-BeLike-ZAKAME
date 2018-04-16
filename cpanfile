@@ -1,5 +1,7 @@
 requires 'perl', '5.014002';
 
+requires 'curry';
+requires 'indirect';
 requires 'AnyEvent';
 requires 'App::Ack';
 requires 'App::cpanoutdated';
@@ -9,7 +11,6 @@ requires 'Carton';
 requires 'Class::Refresh';
 requires 'CPAN::Mini';
 requires 'CPAN::Uploader';
-requires 'curry';
 requires 'Data::Printer';
 requires 'Devel::Confess';
 requires 'Import::Base';
@@ -28,7 +29,6 @@ requires 'Text::Markdown';
 requires 'Type::Tiny';
 requires 'Version::Next';
 
-recommends 'indirect';
 recommends 'perlsecret';
 recommends 'App::rainbarf';
 recommends 'App::scan_prereqs_cpanfile';
