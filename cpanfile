@@ -48,6 +48,7 @@ recommends 'Math::BigInt::Lite';
 recommends 'Paws';
 recommends 'Perl::Critic';
 recommends 'Perl::Critic::Freenode';
+recommends 'Ryu::Async';
 recommends 'Term::ReadLine::Gnu';
 recommends 'Test2::Suite';
 recommends 'Web::Query';
