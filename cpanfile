@@ -32,6 +32,7 @@ requires 'Type::Tiny';
 requires 'Version::Next';
 
 recommends 'perlsecret';
+recommends 'App::FatPacker';
 recommends 'App::rainbarf';
 recommends 'App::scan_prereqs_cpanfile';
 recommends 'App::Nopaste';
