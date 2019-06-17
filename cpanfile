@@ -44,6 +44,7 @@ recommends 'DB::Skip';
 recommends 'Devel::Cover';
 recommends 'Devel::MAT';
 recommends 'Devel::Trace';
+recommends 'IO::Async::SSL';
 recommends 'LWP::Protocol::rsync';
 recommends 'Math::BigInt::Lite';
 recommends 'Paws';
