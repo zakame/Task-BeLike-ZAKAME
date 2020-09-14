@@ -48,6 +48,7 @@ recommends 'Perl::Critic::Freenode';
 recommends 'Ryu::Async';
 recommends 'Term::ReadLine::Gnu';
 recommends 'Test2::Suite';
+recommends 'Tickit';
 
 suggests 'App::Nopaste';
 suggests 'App::rainbarf';
