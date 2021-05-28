@@ -48,7 +48,7 @@ recommends 'LWP::Protocol::rsync';
 recommends 'Math::BigInt::Lite';
 recommends 'Net::DNS::Native';
 recommends 'Perl::Critic';
-recommends 'Perl::Critic::Freenode';
+recommends 'Perl::Critic::Community';
 recommends 'Ryu::Async';
 recommends 'Term::ReadLine::Gnu';
 recommends 'Test2::Suite';
