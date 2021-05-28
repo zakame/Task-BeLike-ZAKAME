@@ -4,7 +4,7 @@
       "Zak B. Elep <zakame@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.1.11, CPAN::Meta::Converter version 2.150010",
+   "generated_by" : "Minilla/v3.1.12, CPAN::Meta::Converter version 2.150010",
    "license" : [
       "perl_5"
    ],
@@ -58,7 +58,7 @@
             "Math::BigInt::Lite" : "0",
             "Net::DNS::Native" : "0",
             "Perl::Critic" : "0",
-            "Perl::Critic::Freenode" : "0",
+            "Perl::Critic::Community" : "0",
             "Ryu::Async" : "0",
             "Term::ReadLine::Gnu" : "0",
             "Test2::Suite" : "0",
@@ -130,6 +130,6 @@
       "Zak B. Elep <zak.elep@yoyo.ph>",
       "Zak B. Elep <zakame@zakame.net>"
    ],
-   "x_serialization_backend" : "JSON::PP version 4.05",
+   "x_serialization_backend" : "JSON::PP version 4.06",
    "x_static_install" : 1
 }
